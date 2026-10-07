@@ -1,1 +1,1 @@
-# Word-Of-Faith-Youth-Ministry
+Website for Word of Faith Church, Bethesda. Service times, events, and contact details.
